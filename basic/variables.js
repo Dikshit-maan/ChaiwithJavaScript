@@ -1,8 +1,8 @@
 let fullName = "Dikshit Maan"
 const gender = "Male"
 var state  = "UP"
-
+let email = "Maan@gmial.com"
 
 // state = "MP"
 
-console.log([fullName, gender, state]);
+console.table([fullName, gender, state, email])
